@@ -1,4 +1,4 @@
-# Infra Monitoring Lab
+# Prometheus_Monitoring_Lab
 
 Simple infrastructure lab project focused on **server monitoring**, using widely adopted tools in the market.
 
