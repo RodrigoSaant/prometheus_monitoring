@@ -1,6 +1,6 @@
 # Prometheus_Monitoring_Lab
 
-Simple infrastructure lab project focused on **server monitoring**, using widely adopted tools in the market.
+Simple infrastructure lab project focused on **server monitoring**
 
 ## 🎯 Objective
 Demonstrate basic and practical knowledge in:
